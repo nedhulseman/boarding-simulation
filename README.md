@@ -1,6 +1,6 @@
 # Boarding Simulation
 
-This program will be used to simulate and find the best boarding method for airlines.
+This program will be used to simulate and find the best boarding method for airlines. Please see full post at https://nedhulseman.wordpress.com/2018/06/15/flight-boarding-simulation-solving-problems-without-data/
 
 ## Getting Started
 
